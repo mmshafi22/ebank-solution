@@ -1,0 +1,23 @@
+.not-found {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found img {
+  width: 500px;
+  padding-bottom: 15px;
+}
+.not-found h1 {
+  font-family: Roboto;
+  font-size: 30px;
+  color: #5a7184;
+  font-weight: bold;
+}
+.not-found p {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #c3cad9;
+  font-weight: bold;
+}
